@@ -34,7 +34,7 @@
 					</li>
 					<li class="list-inline-item">
 						<div class="col-4">
-							<a href="#" class="btn btn-md btn-primary">Donwload</a>
+							<a href="#" class="btn btn-md btn-primary" download="Currículo Guilherme Fogo.pdf">Donwload</a>
 						</div>
 					</li>
 				</ul>
